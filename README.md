@@ -1,4 +1,4 @@
-# User Service (Spring Boot)
+##### User Service (Spring Boot)
 
 This project is a **User Service** built using **Spring Boot**, implementing a basic **User Registration API** with validation and global exception handling.
 
