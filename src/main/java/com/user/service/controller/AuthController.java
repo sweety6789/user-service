@@ -28,7 +28,7 @@ public class AuthController {
         User savedUser = new User();
         System.out.println("Before save: " + savedUser);
         savedUser = userService.register(request);
-        System.out.println("After save: " + savedUser +"modified");
+        System.out.println("After save: " + savedUser);
 
 
         return ResponseEntity.status(HttpStatus.CREATED).body(mapToResponse(savedUser));
