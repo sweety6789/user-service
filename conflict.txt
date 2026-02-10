@@ -1,3 +1,4 @@
 Line 1: Hello World.
 Line 2: second time making changes in Dev1.
 Resolved merge conflict
+Again Testing merge conflict.
