@@ -1,3 +1,1 @@
-Version 5 from Dev1.
-
-version 7 from Dev2.
+Version 6 from Dev1.
